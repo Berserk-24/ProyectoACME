@@ -1,0 +1,17 @@
+h1{
+    /*Manejo por nombre de etiqueta*/
+    color: #0000ff;/*#RRGGBB*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*Manjeo por identificador*/
+#introduccion{
+    color:#cccccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+/*Manejo por clases*/
+.grande{
+    color: #3300ff;
+    font-style: italic;
+    font-weight: bold;
+}
